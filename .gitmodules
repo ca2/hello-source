@@ -1,0 +1,9 @@
+[submodule "app"]
+	path = app
+	url = ../app
+[submodule "console"]
+	path = console
+	url = ../console
+[submodule "third"]
+	path = third
+	url = ../third
